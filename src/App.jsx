@@ -7,6 +7,7 @@ import { MdOutlineVisibilityOff } from "react-icons/md";
 const App = () => {
   return (
     <>
+      <div className="background"></div>
       <div className="wpp"><img src="/wpp-icon.png" alt="" /></div>
       <header>
         <div className="logo"></div>
