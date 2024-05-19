@@ -20,7 +20,7 @@ const App = () => {
       </header>
 
       <section id="home">
-        <span className='disponible'><div className="circle"></div>DISPONÍVEL PARA COMPRA</span>
+        <span className='disponible'><div className="circle"></div>DISPONÍVEL</span>
         <h1>Crossfire AL CHEAT</h1>
         <p></p>
         <div className="box-text-home">
